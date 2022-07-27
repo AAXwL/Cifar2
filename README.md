@@ -15,4 +15,4 @@ SFU/CMPT419 Assignment3 Q4 tune hyperparameters for training Cifar2
 
 * Train a predefined neural network to perform binary classification between two classes in a dataset.
 
-* Attempts to improve the accuracy and error rate of animal image detection so that its accuracy reaches more than 83%.
+* Attempts to improve the accuracy and error rate of animal images detection so that its accuracy will reaches more than 83%.

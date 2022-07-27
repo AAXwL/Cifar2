@@ -1,7 +1,7 @@
 # Cifar2
 ### Propose
 
-SFU/CMPT419A3Q4 tune hyperparameters for training Cifar2
+SFU/CMPT419 Assignment3 Q4 tune hyperparameters for training Cifar2
 
 ### Learning Objective
 

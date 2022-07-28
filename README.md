@@ -11,8 +11,8 @@ SFU/CMPT419 Assignment3 Q4 tune hyperparameters for training Cifar2
 
 * Select SGD with momentum as the training model
 
-* Training in hyperparameter tuning with PyTorch
+* Train in hyperparameter tuning with PyTorch
 
 * Train a predefined neural network to perform binary classification between two classes in a dataset.
 
-* Attempts to improve the accuracy and error rate of animal images detection so that its accuracy will reaches more than 83%.
+* Attempt to improve the accuracy and error rate of animal images detection so that its accuracy will reaches more than 83%.
